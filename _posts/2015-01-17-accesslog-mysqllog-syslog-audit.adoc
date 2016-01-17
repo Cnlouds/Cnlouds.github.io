@@ -2,6 +2,8 @@
 
 :hp-tags :  日志审计，日志，日志监控
 
+:published_at: 2015-01-17
+
 :hp-alt-title: accesslog mysqllog syslog audit
 
 #### SeciLog
