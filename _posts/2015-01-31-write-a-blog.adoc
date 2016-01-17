@@ -1,4 +1,4 @@
-= 搭建一个小博客 =
+= 搭建一个小博客
 
 :hp-tags: HubPress, Blog, Open Source,测试
 
