@@ -4,6 +4,7 @@
 
 :published_at: 2015-01-31
 
+:hp-alt-title: write a blog 
 
 #### 测试下markdown标签
 
