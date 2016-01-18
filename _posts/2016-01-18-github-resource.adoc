@@ -1,6 +1,6 @@
 = Github资源整理
 
-:hp-tags :  APP仿真漏洞平台
+:hp-tags: APP仿真漏洞平台
 
 :hp-alt-title: github resource
 
