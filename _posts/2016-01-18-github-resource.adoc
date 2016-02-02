@@ -18,3 +18,8 @@ https://wiremask.eu/articles/free-reverse-engineering-tools/
 ```text
 https://github.com/amoffat/pykeylogger
 ```
+
+#### sh - linux tool interface
+```text
+https://github.com/amoffat/sh
+```
